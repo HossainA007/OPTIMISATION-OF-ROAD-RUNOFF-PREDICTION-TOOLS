@@ -53,7 +53,7 @@ This repository contains the findings and methodologies from the thesis **"Optim
 
 ### **3. Road Network Analysis**
 - Data collected from six European countries.
-![Proposed Model Validation](EXCEL: SCRIPTS/input.xlsx.png)
+![Proposed Model Validation](EXCEL: SCRIPTS/input.xlsx)
 ---
 
 ## **Methodologies**
