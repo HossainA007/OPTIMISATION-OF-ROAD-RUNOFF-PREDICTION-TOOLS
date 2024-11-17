@@ -31,8 +31,10 @@ This repository contains the findings and methodologies from the thesis **"Optim
 | Kayhanian's Model (USA)| 0.92 | 0.55     | 0.65     |
 
 - Visual comparison of models:
-  ![Model Performance Comparison](figures/b.png)
-  ![Model Performance Comparison](figures/c.png)
+  ![R2_Distribution_Comparison](figures/10.png)
+  ![RMSE_Comparison](figures/11.png)
+  ![Correlation_Heatmap](figures/output (10).png)
+
 
 ---
 
@@ -42,15 +44,15 @@ This repository contains the findings and methodologies from the thesis **"Optim
 - Example equation:
    - `SMC = a + b * Rainfall_Intensity + c * Traffic_Load`
 - Model validation plot:
-  ![Proposed Model Validation](figures/i.png)
-  ![Proposed Model Validation](figures/h.png)
+  ![Proposed Model Validation](figures/h.png) ![Proposed Model Validation](figures/5.png)
+  ![Proposed Model Validation](figures/6.png)
+  ![Proposed Model Validation](figures/7.png)
+  ![Proposed Model Validation](figures/8.png)
 
 ---
 
 ### **3. Road Network Analysis**
 - Data collected from six European countries.
-- Map of monitored roads:
-  [Highways_Analyzed](figures/a.png)
 
 ---
 
@@ -60,6 +62,10 @@ This repository contains the findings and methodologies from the thesis **"Optim
   - Pollutants: TSS, copper, zinc, lead, cadmium.
 - **Model Evaluation**:
   - Statistical comparison between observed and predicted values.
+  ![Proposed Model Validation](figures/12.png)
+  ![Proposed Model Validation](figures/13.png)
+  ![Proposed Model Validation](figures/14.png)
+  ![Proposed Model Validation](figures/15.png)
 - **Error Analysis**:
   - Quantified prediction accuracy with RMSE, ENS, and R² indices.
 
