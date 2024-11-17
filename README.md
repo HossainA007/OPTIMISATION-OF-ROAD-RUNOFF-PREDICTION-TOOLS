@@ -44,7 +44,7 @@ This repository contains the findings and methodologies from the thesis **"Optim
 - Example equation:
    - `SMC = a + b * Rainfall_Intensity + c * Traffic_Load`
 - Model validation plot:
-  ![Proposed Model Validation](figures/h.png) ![Proposed Model Validation](figures/5.png)
+  ![Proposed Model Validation](figures/5.png)
   ![Proposed Model Validation](figures/6.png)
   ![Proposed Model Validation](figures/7.png)
   ![Proposed Model Validation](figures/8.png)
