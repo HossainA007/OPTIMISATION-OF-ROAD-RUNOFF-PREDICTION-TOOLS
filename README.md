@@ -31,7 +31,8 @@ This repository contains the findings and methodologies from the thesis **"Optim
 | Kayhanian's Model (USA)| 0.92 | 0.55     | 0.65     |
 
 - Visual comparison of models:
-  ![Model Performance Comparison](path/to/model_comparison_graph.png)
+  ![Model Performance Comparison](figures/b.png)
+  ![Model Performance Comparison](figures/c.png)
 
 ---
 
@@ -41,14 +42,15 @@ This repository contains the findings and methodologies from the thesis **"Optim
 - Example equation:
    - `SMC = a + b * Rainfall_Intensity + c * Traffic_Load`
 - Model validation plot:
-  ![Proposed Model Validation](path/to/proposed_model_validation.png)
+  ![Proposed Model Validation](figures/i.png)
+  ![Proposed Model Validation](figures/h.png)
 
 ---
 
 ### **3. Road Network Analysis**
 - Data collected from six European countries.
 - Map of monitored roads:
-  ![Monitored Roads in Europe](path/to/monitored_roads_map.png)
+  [Highways_Analyzed](figures/a.png)
 
 ---
 
@@ -90,17 +92,3 @@ Special thanks to:
 - Professor Paola Di Mascio, for guidance and mentorship.
 - Research collaborators for providing data and insights.
 
----
-
-## **Figures**
-1. **Model Performance Comparison**  
-   ![Model Performance Comparison](path/to/model_comparison_graph.png)
-2. **Proposed Model Validation**  
-   ![Proposed Model Validation](path/to/proposed_model_validation.png)
-3. **Monitored Roads Map**  
-   ![Monitored Roads in Europe](path/to/monitored_roads_map.png)
-
----
-
-## **Contact**
-For queries or collaborations, please reach out via the repository’s issue tracker.
