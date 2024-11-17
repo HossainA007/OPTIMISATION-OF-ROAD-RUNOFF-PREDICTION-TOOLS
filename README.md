@@ -33,7 +33,7 @@ This repository contains the findings and methodologies from the thesis **"Optim
 - Visual comparison of models:
   ![R2_Distribution_Comparison](figures/10.png)
   ![RMSE_Comparison](figures/11.png)
-  ![Correlation_Heatmap](figures/10.png)
+  ![Correlation_Heatmap](figures/9.png)
 
 
 ---
